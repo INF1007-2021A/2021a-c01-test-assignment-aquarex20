@@ -6,7 +6,7 @@ if __name__ == '__main__':
     print("Le cours INF1007 est mon cours")
     i=0
     while i+1>i:
-        print("......................")
+        print(".....................")
         
         
        
